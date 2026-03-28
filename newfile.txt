@@ -1,1 +1,2 @@
 Welcome to git/github practice session
+Adding more details to check the git
