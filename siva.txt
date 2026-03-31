@@ -1,1 +1,2 @@
 welcome to advance github training
+checking the poll SCM build trigger for the demo purpose
